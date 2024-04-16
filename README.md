@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack ML Projects**
 
-- 👨‍💻 My public projects are available [On My Github Ofc](On My Github Ofc)
+- 👨‍💻 My public projects are available On My Github Ofc
 
 - 💬 Ask me about any doubts you have. **Always glad to help🙌**
 
