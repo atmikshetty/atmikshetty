@@ -8,6 +8,7 @@
 - 📫 Reach out at **atmikshetty10@gmail.com**
 
 - ⚡ Fun fact **Always Sleep deprived**
+- 📃 Resume: https://drive.google.com/file/d/16_JBBdWj7c6_bGXEmOjgKgIRB37YdZtu/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
