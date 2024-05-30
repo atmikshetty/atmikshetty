@@ -3,7 +3,7 @@
 
 - ⚒️Open to work for **Freelance, Research**
 
-- 💻 Currently learning **Open Source LLMs and React Native**
+- 💻 Currently learning **Open Source LLMs and Golang**
 
 - 📫 Reach out at **atmikshetty10@gmail.com**
 
