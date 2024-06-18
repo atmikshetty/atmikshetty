@@ -8,11 +8,10 @@
 - 📫 Reach out at **atmikshetty10@gmail.com**
 
 - ⚡ Fun fact **Always Sleep deprived**
-- 📃 Resume: https://drive.google.com/file/d/16_JBBdWj7c6_bGXEmOjgKgIRB37YdZtu/view?usp=drive_link
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/atmik_shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atmik_shetty" height="30" width="40" /></a>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/atmik-shetty-b85448249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atmik-shetty-b85448249" height="30" width="40" /></a>
 </p>
 
