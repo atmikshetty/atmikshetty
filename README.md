@@ -1,6 +1,7 @@
-<h1>Hello 👋, I'm Atmik Shetty</h1>
-<h3>Full Stack Web and Machine Learning Developer</h3>
+### Hi 👋, I'm Atmik, a Machine Learning Engineer based in India. 
 
-- ⚒️ Open to work for **SDE, MLE, DS, DevOps Internships and FTE**
-- 👨‍💻 Open for Research Collaborations and Internships in **Natural Language Processing, LLMs Inferencing, Optimizations, Contextual-Aware Learning**
-- 📫 Reach out at **atmikshetty10@gmail.com**
+I'm currently learning more about Language Models, Inference, and Agents. Also, I'm actively contributing to ML open-source projects. You can know about my experiences through my [Resume](lol).
+
+### What I'm up to:
+- 🔭 I'm an ML Engineer at [SimPPL](https://simppl.org/) where we are building the world's most advanced fact-checking platform for Journalists and Mass Media.
+- 🌱 I love to read research papers on ML
