@@ -4,5 +4,5 @@ I'm currently learning more about Language Models, Inference, and Agents. Also, 
 
 ### What I'm up to:
 - 🔭 I'm an ML Engineer at [SimPPL](https://simppl.org/).
-- Building [HateBench](https://hatebench.vercel.app/). 
+- Something Interesting: [HateBench](https://hatebench.vercel.app/). 
 - 🥸 Currently learning GPU Programming and Distributed Inference. 
